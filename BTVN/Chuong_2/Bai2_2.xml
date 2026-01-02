@@ -1,0 +1,11 @@
+<!-- Bài 2.2. Viết môt 1: XML đề lưu trử danh sách sinh viên gồm các thông tin
+Mã sinh viên, tên sinh viên, năm sinh, lớp, giới tính. -->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DS_Sinhvien>
+    <Ma_sinh_vien>24174600106</Ma_sinh_vien>
+    <Ten_sinh_vien>PhamThuyLinh</Ten_sinh_vien>
+    <lop>DHKL18A2HNK</lop>
+    <Gioi_tinh>Nu</Gioi_tinh>
+</DS_Sinhvien>

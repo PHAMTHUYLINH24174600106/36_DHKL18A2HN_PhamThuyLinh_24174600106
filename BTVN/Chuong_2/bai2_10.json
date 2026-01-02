@@ -1,0 +1,9 @@
+{
+    "ten_cong_ty": "Công ty TNHH LinhPham",
+    "dia_chi": "abc Giải Phóng - Hà Nội",
+    "don_vi": [
+        {"ten_don_vi": "Đơn vị A1", "so_nv": 5},
+        {"ten_don_vi": "Đơn vị A2", "so_nv": 8},
+        {"ten_don_vi": "Đơn vị A3", "so_nv": 12}
+    ]
+}

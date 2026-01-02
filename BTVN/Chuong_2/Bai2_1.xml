@@ -1,0 +1,19 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<CONG_TY>
+    <ten_cong_ty>Công tư Linh </ten_cong_ty>
+    <Giam_doc>
+        <Ho_ten> Tran duc co </Ho_ten>
+        <SDT> 0123456678 </SDT>
+    </Giam_doc>
+    <Dia_chi>
+        <so_nha>163</so_nha>
+        <phuong>Phuong Linh Nam </phuong>
+        <Thanh_pho>Ha Noi</Thanh_pho>
+    </Dia_chi>
+    <Ma_so>
+        <ma_so_cty>CT123</ma_so_cty>
+    </Ma_so>
+    <Thue>
+        <ma_thue>1234567</ma_thue>
+    </Thue>
+</CONG_TY>
